@@ -2,10 +2,7 @@
 
 ### Connect with me:
 
-[salemsaber.com][website]
-[Linkedin][linkedin]
-[Facebook][facebook]
-[Instagram][instagram]
+[Salemsaber.com][website] | [Linkedin][linkedin] | [Facebook][facebook] | [Instagram][instagram]
 
 
 [website]: https://salemsaber.com
