@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Salem Saber</h1>
 <h3 align="center">Software Engineer at Qafeer</h3> 
 
-<div align="center">
-<h3 align="center">Connect with me :</h3> 
+
+### Connect with me :
 [salemsaber.com][website] | [Linkedin][linkedin] | [Facebook][facebook] | [Instagram][instagram]
-</div>
+
 
 [website]: https://salemsaber.com
 [linkedin]: https://www.linkedin.com/in/salem-saber/
