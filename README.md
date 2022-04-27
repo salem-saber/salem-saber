@@ -1,4 +1,5 @@
-### Hi there 👋 , I'm Salem Saber - Software Engineer at [Qafeer][current_company]
+<h1 align="center">Hi 👋, I'm Salem Saber</h1>
+<h3 align="center">Software Engineer at [Qafeer][current_company]</h3>
 
 ### Connect with me :
 
