@@ -2,8 +2,7 @@
 <h3 align="center">Software Engineer at Qafeer</h3> 
 
 <div align="center">
-### Connect with me :
-
+<h3 align="center">Connect with me :</h3> 
 [salemsaber.com][website] | [Linkedin][linkedin] | [Facebook][facebook] | [Instagram][instagram]
 </div>
 
