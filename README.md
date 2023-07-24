@@ -7,14 +7,15 @@
 
 - 📫 Send me via : salem.saber97@gmail.com
 
-
 <h3 align="left">About me:</h3>
-I'm a Software Engineer with 5+ years of experience specialized in backend development and architecture makes me an asset for any software engineering team.
-- Working with in PHP, Python, Go, JavaScript and patient to work with any technology in backend.
-- I have a very good knowledge in data storages SQL & NoSQL Databases.
-- Usually I was assigned to teams that build scalable and highly available systems.
-- Focusing on clean code and architecture to make maintenance easier.
-- Mentoring junior developers to improve their technical skills.
+<p align="left">I'm a Software Engineer with 5+ years of experience specialized in backend development and architecture makes me an asset for any software engineering team.</p>
+<ul>
+  <li>- Working with in PHP, Python, Go, JavaScript and patient to work with any technology in backend.</li>
+  <li>- I have a very good knowledge in data storages SQL & NoSQL Databases.</li>
+  <li>- Usually I was assigned to teams that build scalable and highly available systems.</li>
+  <li>- Focusing on clean code and architecture to make maintenance easier.</li>
+  <li>- Mentoring junior developers to improve their technical skills.</li>
+</ul>
 
 <h3 align="left">Get connected :</h3>
 <p align="left">
