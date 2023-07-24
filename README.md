@@ -10,11 +10,11 @@
 <h3 align="left">About me:</h3>
 <p align="left">I'm a Software Engineer with 5+ years of experience specialized in backend development and architecture makes me an asset for any software engineering team.</p>
 <ul>
-  <li>- Working with in PHP, Python, Go, JavaScript and patient to work with any technology in backend.</li>
-  <li>- I have a very good knowledge in data storages SQL & NoSQL Databases.</li>
-  <li>- Usually I was assigned to teams that build scalable and highly available systems.</li>
-  <li>- Focusing on clean code and architecture to make maintenance easier.</li>
-  <li>- Mentoring junior developers to improve their technical skills.</li>
+  <li>Working with in PHP, Python, Go, JavaScript and patient to work with any technology in backend.</li>
+  <li>I have a very good knowledge in data storages SQL & NoSQL Databases.</li>
+  <li>Usually I was assigned to teams that build scalable and highly available systems.</li>
+  <li>Focusing on clean code and architecture to make maintenance easier.</li>
+  <li>Mentoring junior developers to improve their technical skills.</li>
 </ul>
 
 <h3 align="left">Get connected :</h3>
