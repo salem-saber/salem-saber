@@ -5,7 +5,6 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=salem-saber&label=Profile%20views&color=0e75b6&style=flat" alt="salem-saber" /> </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salem-saber&" alt="salem-saber" /></p>
 
-- 📫 Send me via : salem.saber97@gmail.com
 
 <h3 align="left">About me:</h3>
 <p align="left">I'm a Software Engineer with 5+ years of experience specialized in backend development and architecture makes me an asset for any software engineering team.</p>
