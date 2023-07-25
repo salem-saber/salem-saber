@@ -34,6 +34,9 @@
 
 <h3 align="left">Get connected :</h3>
 <p align="left">
+
+  [![Linkedin: amadoabaca](https://img.shields.io/badge/-amado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amado-abaca-59845a1b4/)](https://www.linkedin.com/in/amado-abaca-59845a1b4/)
+
 <a href="https://linkedin.com/in/salem-saber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salem-saber" height="15" width="20" /></a>
 <a href="mailto:salem.saber97@gmail.com" target="blank">:email:</a>
 </p>
