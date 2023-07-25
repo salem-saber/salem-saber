@@ -16,6 +16,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-FFF?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-FFF?&logo=SQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-FFF?&logo=MySQL)
+![Mongo](https://img.shields.io/badge/-Mongo-FFF?&logo=Mongo)
+![Redis](https://img.shields.io/badge/-Redis-FFF?&logo=Redis)
+
 
 <h3 align="left">About me:</h3>
 <p align="left">I'm a Software Engineer with 5+ years of experience specialized in backend development and architecture makes me an asset for any software engineering team.</p>
