@@ -22,7 +22,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FFF?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-FFF?&logo=node.js)
 
-<h3 align="left">About me:</h3>
+<h3 align="left">About Me:</h3>
 <p align="left">I'm a Software Engineer with 5+ years of experience specialized in backend development and architecture makes me an asset for any software engineering team.</p>
 <ul>
   <li>Working with in PHP, Python, Go, JavaScript and patient to work with any technology in backend.</li>
@@ -32,13 +32,15 @@
   <li>Mentoring junior developers to improve their technical skills.</li>
 </ul>
 
-<h3 align="left">Get connected :</h3>
+<h3 align="left">Get Connected:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/salem-saber">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/salem-saber">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=GMail&logoColor=white" />
+</a>
 
-[![Linkedin: salem-saber](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/salem-saber/)](https://www.linkedin.com/in/salem-saber/)
-
-<a href="https://linkedin.com/in/salem-saber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salem-saber" height="15" width="20" /></a>
-<a href="mailto:salem.saber97@gmail.com" target="blank">:gmail:</a>
 </p>
 
 
