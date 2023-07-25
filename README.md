@@ -26,6 +26,12 @@
     <img align="center" src="https://img.shields.io/badge/-NodeJS-FFF?&logo=node.js"/>
     <img align="center" src="https://img.shields.io/badge/-NestJS-FFF?&logo=nestjs&logoColor=E0234E"/>
     <img align="center" src="https://img.shields.io/badge/-GraphQL-eee?style=flat-square&logo=graphql&logoColor=E10098"/>
+    <img align="center" src="http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032"/>
+    <img align="center" src="http://img.shields.io/badge/-GNU%20Bash-eee?style=flat-square&logo=gnu-bash&logoColor=663399"/>
+    <img align="center" src="http://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman&logoColor=FF6C37"/>
+    <img align="center" src="http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
+    <img align="center" src="https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+    <img align="center" src="https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098"/>
 </p>
 <hr>
 <h3 align="left">About Me:</h3>
