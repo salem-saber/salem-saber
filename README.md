@@ -23,8 +23,8 @@
     <img align="center" src="https://img.shields.io/badge/-Docker-FFF?&logo=Docker"/>
     <img align="center" src="https://img.shields.io/badge/-Kubernetes-FFF?&logo=Kubernetes"/>
     <img align="center" src="https://img.shields.io/badge/-Linux-FFF?&logo=Linux"/>
-    <img align="center" src="https://img.shields.io/badge/-NodeJS-FFF?&logo=nodejs"/>
-    <img align="center" src="https://img.shields.io/badge/-NestJS-FFF?&logo=nestjs"/>
+    <img align="center" src="https://img.shields.io/badge/-NodeJS-FFF?&logo=node.js"/>
+    <img align="center" src="https://img.shields.io/badge/-NestJS-FFF?&logo=nest.js"/>
 </p>
 <hr>
 <h3 align="left">About Me:</h3>
