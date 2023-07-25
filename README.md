@@ -12,12 +12,14 @@
     <li>Focusing on clean code and architecture to make maintenance easier.</li>
     <li>Mentoring junior developers to improve their technical skills.</li>
 </ul>
-<hr>
+
 <h3 align="left">Get Connected:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/salem-saber"><img src="https://img.shields.io/badge/-Salem%20Saber-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:salem.saber97@gmail.com"><img src="https://img.shields.io/badge/-salem.saber97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
+<hr>
 
 <p align="center">
     <img align="center" src="https://img.shields.io/badge/-PHP-FFF?&logo=PHP"/>
@@ -42,7 +44,6 @@
     <img align="center" src="https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28"/>
     <img align="center" src="https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098"/>
 </p>
-<hr>
 <p align="center">
     <img align="center"
          src="https://github-readme-stats.vercel.app/api?username=salem-saber&show_icons=true&hide_border=true"
