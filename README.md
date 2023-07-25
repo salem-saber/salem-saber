@@ -1,18 +1,24 @@
 <h1 align="center">Hi 👋, I'm Salem Saber</h1>
 <h3 align="center">Software Engineer at Trufla</h3>
-
 <p align="center"><a href="https://salemsaber.com/" target="_blank">www.salemsaber.com</a></p>
-<p align="center">
-    <img align="center"
-         src="https://github-readme-stats.vercel.app/api?username=salem-saber&show_icons=true&hide_border=true"
-         alt="salem-saber"/>
-    <img align="center"
-         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salem-saber&layout=compact&langs_count=8&hide_border=true"
-         alt="salem-saber"/>
-    <img align="center"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=salem-saber&hide_border=true"
-         alt="salem-saber"/>
+
+<h3 align="left">About Me:</h3>
+<p align="left">I'm a Software Engineer with 5+ years of experience specialized in backend development and architecture
+    makes me an asset for any software engineering team.</p>
+<ul>
+    <li>Working with in PHP, Python, Go, JavaScript and patient to work with any technology in backend.</li>
+    <li>I have a very good knowledge in data storages SQL & NoSQL Databases.</li>
+    <li>Usually I was assigned to teams that build scalable and highly available systems.</li>
+    <li>Focusing on clean code and architecture to make maintenance easier.</li>
+    <li>Mentoring junior developers to improve their technical skills.</li>
+</ul>
+<hr>
+<h3 align="left">Get Connected:</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/salem-saber"><img src="https://img.shields.io/badge/-Salem%20Saber-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:salem.saber97@gmail.com"><img src="https://img.shields.io/badge/-salem.saber97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
 <p align="center">
     <img align="center" src="https://img.shields.io/badge/-PHP-FFF?&logo=PHP"/>
     <img align="center" src="https://img.shields.io/badge/-Python-FFF?&logo=Python"/>
@@ -37,19 +43,15 @@
     <img align="center" src="https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098"/>
 </p>
 <hr>
-<h3 align="left">About Me:</h3>
-<p align="left">I'm a Software Engineer with 5+ years of experience specialized in backend development and architecture
-    makes me an asset for any software engineering team.</p>
-<ul>
-    <li>Working with in PHP, Python, Go, JavaScript and patient to work with any technology in backend.</li>
-    <li>I have a very good knowledge in data storages SQL & NoSQL Databases.</li>
-    <li>Usually I was assigned to teams that build scalable and highly available systems.</li>
-    <li>Focusing on clean code and architecture to make maintenance easier.</li>
-    <li>Mentoring junior developers to improve their technical skills.</li>
-</ul>
-<hr>
-<h3 align="left">Get Connected:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/salem-saber"><img src="https://img.shields.io/badge/-Salem%20Saber-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:salem.saber97@gmail.com"><img src="https://img.shields.io/badge/-salem.saber97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<p align="center">
+    <img align="center"
+         src="https://github-readme-stats.vercel.app/api?username=salem-saber&show_icons=true&hide_border=true"
+         alt="salem-saber"/>
+    <img align="center"
+         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salem-saber&layout=compact&langs_count=8&hide_border=true"
+         alt="salem-saber"/>
+    <img align="center"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=salem-saber&hide_border=true"
+         alt="salem-saber"/>
 </p>
+
