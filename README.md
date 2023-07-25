@@ -6,8 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=salem-saber&show_icons=true&hide_border=true" alt="salem-saber" />
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salem-saber&layout=compact&langs_count=8&hide_border=true" alt="salem-saber" />
 </p>
-
-
+<p align="center">
 
 ![PHP](https://img.shields.io/badge/-PHP-FFF?&logo=PHP)
 ![Python](https://img.shields.io/badge/-Python-FFF?&logo=Python)
@@ -21,7 +20,8 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-FFF?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-FFF?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-FFF?&logo=node.js)
-
+</p>
+<hr>
 <h3 align="left">About Me:</h3>
 <p align="left">I'm a Software Engineer with 5+ years of experience specialized in backend development and architecture makes me an asset for any software engineering team.</p>
 <ul>
