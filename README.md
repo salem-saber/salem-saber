@@ -9,30 +9,16 @@
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/-PHP-FFF?&logo=PHP" />
   <img align="center" src="https://img.shields.io/badge/-Python-FFF?&logo=Python" />
-  <img align="center" src="" />
-  <img align="center" src="" />
-  <img align="center" src="" />
-  <img align="center" src="" />
-  <img align="center" src="" />
-  <img align="center" src="" />
-  <img align="center" src="" />
-  <img align="center" src="" />
-  <img align="center" src="" />
-  <img align="center" src="" />
-  <img align="center" src="" />
-  
-![PHP]()
-![Python]()
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFF?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-FFF?&logo=TypeScript)
-![MySQL](https://img.shields.io/badge/-MySQL-FFF?&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-FFF?&logo=MongoDB)
-![Redis](https://img.shields.io/badge/-Redis-FFF?&logo=Redis)
-![AWS](https://img.shields.io/badge/-AWS-FFF?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-FFF?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-FFF?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-FFF?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-FFF?&logo=node.js)
+  <img align="center" src="https://img.shields.io/badge/-JavaScript-FFF?&logo=JavaScript" />
+  <img align="center" src="https://img.shields.io/badge/-TypeScript-FFF?&logo=TypeScript" />
+  <img align="center" src="https://img.shields.io/badge/-MySQL-FFF?&logo=MySQL" />
+  <img align="center" src="https://img.shields.io/badge/-MongoDB-FFF?&logo=MongoDB" />
+  <img align="center" src="https://img.shields.io/badge/-Redis-FFF?&logo=Redis" />
+  <img align="center" src="https://img.shields.io/badge/-AWS-FFF?&logo=Amazon-AWS&logoColor=F90" />
+  <img align="center" src="https://img.shields.io/badge/-Docker-FFF?&logo=Docker" />
+  <img align="center" src="https://img.shields.io/badge/-Kubernetes-FFF?&logo=Kubernetes" />
+  <img align="center" src="https://img.shields.io/badge/-Linux-FFF?&logo=Linux" />
+  <img align="center" src="https://img.shields.io/badge/-Node.js-FFF?&logo=node.js" />
 </p>
 <hr>
 <h3 align="left">About Me:</h3>
