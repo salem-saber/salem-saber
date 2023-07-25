@@ -47,12 +47,6 @@
 <hr>
 <h3 align="left">Get Connected:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/salem-saber" target="_blank">
-        <img align="left" alt="Linkdein" width="100px" height="30px"
-             src="https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:salem.saber97@gmail.com" target="_blank">
-        <img align="left" alt="GMail" width="100px" height="30px"
-             src="https://img.shields.io/badge/-GMail-red?logo=GMail&logoColor=white"/>
-    </a>
+    <a href="https://linkedin.com/in/salem-saber"><img src="https://img.shields.io/badge/-Salem%20Saber-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:salem.saber97@gmail.com"><img src="https://img.shields.io/badge/-salem.saber97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
