@@ -14,7 +14,7 @@
   <img align="center" src="https://img.shields.io/badge/-MySQL-FFF?&logo=MySQL" />
   <img align="center" src="https://img.shields.io/badge/-MongoDB-FFF?&logo=MongoDB" />
   <img align="center" src="https://img.shields.io/badge/-Redis-FFF?&logo=Redis" />
-  <img align="center" src="https://img.shields.io/badge/-AWS-FFF?&logo=Amazon-AWS&logoColor=F90" />
+  <img align="center" src="https://img.shields.io/badge/-AWS-FFF?&logo=Amazon-AWS" />
   <img align="center" src="https://img.shields.io/badge/-Docker-FFF?&logo=Docker" />
   <img align="center" src="https://img.shields.io/badge/-Kubernetes-FFF?&logo=Kubernetes" />
   <img align="center" src="https://img.shields.io/badge/-Linux-FFF?&logo=Linux" />
