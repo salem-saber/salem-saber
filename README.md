@@ -7,9 +7,22 @@
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salem-saber&layout=compact&langs_count=8&hide_border=true" alt="salem-saber" />
 </p>
 <p align="center">
-
-![PHP](https://img.shields.io/badge/-PHP-FFF?&logo=PHP)
-![Python](https://img.shields.io/badge/-Python-FFF?&logo=Python)
+  <img align="center" src="https://img.shields.io/badge/-PHP-FFF?&logo=PHP" />
+  <img align="center" src="https://img.shields.io/badge/-Python-FFF?&logo=Python" />
+  <img align="center" src="" />
+  <img align="center" src="" />
+  <img align="center" src="" />
+  <img align="center" src="" />
+  <img align="center" src="" />
+  <img align="center" src="" />
+  <img align="center" src="" />
+  <img align="center" src="" />
+  <img align="center" src="" />
+  <img align="center" src="" />
+  <img align="center" src="" />
+  
+![PHP]()
+![Python]()
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFF?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-FFF?&logo=TypeScript)
 ![MySQL](https://img.shields.io/badge/-MySQL-FFF?&logo=MySQL)
