@@ -3,7 +3,11 @@
 
 <p align="center"><a href="https://salemsaber.com/" target="blank">www.salemsaber.com</a></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=salem-saber&label=Profile%20views&color=0e75b6&style=flat" alt="salem-saber" /> </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salem-saber&" alt="salem-saber" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true" alt="salem-saber" /></p>
+
+
+![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
 
 
 <h3 align="left">About me:</h3>
