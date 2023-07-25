@@ -25,6 +25,7 @@
     <img align="center" src="https://img.shields.io/badge/-Linux-FFF?&logo=Linux"/>
     <img align="center" src="https://img.shields.io/badge/-NodeJS-FFF?&logo=node.js"/>
     <img align="center" src="https://img.shields.io/badge/-NestJS-FFF?&logo=nestjs&logoColor=E0234E"/>
+    <img align="center" src="https://img.shields.io/badge/-GraphQL-eee?style=flat-square&logo=graphql&logoColor=E10098"/>
 </p>
 <hr>
 <h3 align="left">About Me:</h3>
