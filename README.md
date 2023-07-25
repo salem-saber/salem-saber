@@ -10,7 +10,7 @@
 
 
 
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![PHP](https://img.shields.io/badge/-PHP-FFF?&logo=PHP)
 
 
 <h3 align="left">About me:</h3>
