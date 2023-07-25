@@ -35,10 +35,10 @@
 <h3 align="left">Get Connected:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/salem-saber">
-  <img align="left" alt="akd's Linkdein" width="100px" height="30px" src="https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white" />
+  <img align="left" alt="Linkdein" width="100px" height="30px" src="https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/salem-saber">
-  <img align="left" alt="akd's Linkdein" width="100px" height="30px" src="https://img.shields.io/badge/-GMail-red?logo=GMail&logoColor=white" />
+<a href="mailto:salem.saber97@gmail.com">
+  <img align="left" alt="GMail" width="100px" height="30px" src="https://img.shields.io/badge/-GMail-red?logo=GMail&logoColor=white" />
 </a>
 
 </p>
