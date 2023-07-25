@@ -35,7 +35,7 @@
 <h3 align="left">Get connected :</h3>
 <p align="left">
 
-[![Linkedin: salem-saber](https://img.shields.io/badge/-salem-saber-FFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/salem-saber/)](https://www.linkedin.com/in/amadosalem-saber/)
+[![Linkedin: salem-saber](https://img.shields.io/badge/-salem-FFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/salem-saber/)](https://www.linkedin.com/in/amadosalem-saber/)
 
 <a href="https://linkedin.com/in/salem-saber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salem-saber" height="15" width="20" /></a>
 <a href="mailto:salem.saber97@gmail.com" target="blank">:email:</a>
