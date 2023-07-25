@@ -52,7 +52,7 @@
          src="https://github-readme-streak-stats.herokuapp.com/?user=salem-saber&hide_border=true"
          alt="salem-saber"/>
     <img align="center"
-         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salem-saber&langs_count=8&hide_border=true"
+         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salem-saber&langs_count=8&hide_border=true&hide_progress=true"
          alt="salem-saber"/>
 </p>
 
