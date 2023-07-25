@@ -14,11 +14,14 @@
 ![Python](https://img.shields.io/badge/-Python-FFF?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFF?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-FFF?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-Sql-FFF?&logo=Sql)
 ![MySQL](https://img.shields.io/badge/-MySQL-FFF?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FFF?&logo=MongoDB)
 ![Redis](https://img.shields.io/badge/-Redis-FFF?&logo=Redis)
-
+![AWS](https://img.shields.io/badge/-AWS-FFF?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-FFF?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-FFF?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-FFF?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-FFF?&logo=node.js)
 
 <h3 align="left">About me:</h3>
 <p align="left">I'm a Software Engineer with 5+ years of experience specialized in backend development and architecture makes me an asset for any software engineering team.</p>
