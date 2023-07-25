@@ -11,7 +11,11 @@
 
 
 ![PHP](https://img.shields.io/badge/-PHP-FFF?&logo=PHP)
-
+![Python](https://img.shields.io/badge/-Python-FFF?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFF?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-FFF?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-FFF?&logo=SQL)
+![MySQL](https://img.shields.io/badge/-MySQL-FFF?&logo=MySQL)
 
 <h3 align="left">About me:</h3>
 <p align="left">I'm a Software Engineer with 5+ years of experience specialized in backend development and architecture makes me an asset for any software engineering team.</p>
