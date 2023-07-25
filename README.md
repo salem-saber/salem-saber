@@ -49,7 +49,7 @@
          src="https://github-readme-stats.vercel.app/api?username=salem-saber&show_icons=true&hide_border=true"
          alt="salem-saber"/>
     <img align="center"
-         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salem-saber&layout=donut-vertical&langs_count=8&hide_border=true"
+         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salem-saber&langs_count=8&hide_border=true"
          alt="salem-saber"/>
     <img align="center"
          src="https://github-readme-streak-stats.herokuapp.com/?user=salem-saber&hide_border=true"
