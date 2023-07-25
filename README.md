@@ -15,6 +15,7 @@
     <img align="center" src="https://img.shields.io/badge/-Python-FFF?&logo=Python"/>
     <img align="center" src="https://img.shields.io/badge/-JavaScript-FFF?&logo=JavaScript"/>
     <img align="center" src="https://img.shields.io/badge/-TypeScript-FFF?&logo=TypeScript"/>
+    <img align="center" src="https://img.shields.io/badge/-Go-FFF?&logo=Go"/>
     <img align="center" src="https://img.shields.io/badge/-MySQL-FFF?&logo=MySQL"/>
     <img align="center" src="https://img.shields.io/badge/-MongoDB-FFF?&logo=MongoDB"/>
     <img align="center" src="https://img.shields.io/badge/-Redis-FFF?&logo=Redis"/>
