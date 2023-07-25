@@ -14,9 +14,9 @@
 ![Python](https://img.shields.io/badge/-Python-FFF?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFF?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-FFF?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-FFF?&logo=SQL)
+![SQL](https://img.shields.io/badge/-Sql-FFF?&logo=Sql)
 ![MySQL](https://img.shields.io/badge/-MySQL-FFF?&logo=MySQL)
-![Mongo](https://img.shields.io/badge/-Mongo-FFF?&logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-FFF?&logo=MongoDB)
 ![Redis](https://img.shields.io/badge/-Redis-FFF?&logo=Redis)
 
 
