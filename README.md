@@ -3,7 +3,7 @@
 <p align="center"><a href="https://salemsaber.com/" target="_blank">www.salemsaber.com</a></p>
 
 <h3 align="left">About Me:</h3>
-<p align="left">I'm a Software Engineer with 5+ years of experience specialized in backend development and architecture
+<p align="left">I'm a Software Engineer with 6+ years of experience specialized in backend development and architecture
     makes me an asset for any software engineering team.</p>
 <ul>
     <li>Working with in PHP, Python, Go, JavaScript and patient to work with any technology in backend.</li>
@@ -43,16 +43,5 @@
     <img align="center" src="http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
     <img align="center" src="https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28"/>
     <img align="center" src="https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098"/>
-</p>
-<p align="center">
-    <img align="center"
-         src="https://github-readme-stats.vercel.app/api?username=salem-saber&show_icons=true&hide_border=true"
-         alt="salem-saber"/>
-    <img align="center"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=salem-saber&hide_border=true"
-         alt="salem-saber"/>
-    <img align="center"
-         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salem-saber&layout=compact"
-         alt="salem-saber"/>
 </p>
 
