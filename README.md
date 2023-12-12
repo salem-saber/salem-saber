@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salem Saber</h1>
-<h3 align="center">Software Engineer at Trufla</h3>
+<h3 align="center">Senior Software Engineer at SideUp</h3>
 <p align="center"><a href="https://salemsaber.com/" target="_blank">www.salemsaber.com</a></p>
 
 <h3 align="left">About Me:</h3>
