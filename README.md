@@ -3,7 +3,7 @@
 <p align="center"><a href="https://salemsaber.com/" target="_blank">www.salemsaber.com</a></p>
 
 <h3 align="left">About Me:</h3>
-<p align="left">I'm a Software Engineer with 6+ years of experience specialized in backend development and architecture
+<p align="left">I'm a Software Engineer with over 9 years of experience specialized in backend development and architecture
     makes me an asset for any software engineering team.</p>
 <ul>
     <li>Working with in PHP, Python, Go, JavaScript and patient to work with any technology in backend.</li>
